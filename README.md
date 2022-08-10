@@ -1,10 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--ohpJlve1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/drquzbncy/image/upload/v1586605549/javascript_banner_sxve2l.jpg)](https://www.linkedin.com/in/rajat-pratap-singh-sse/)]
-
 <h1 align="center">Hi 👋, I'm Rajat Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India & open for new challenges which may help me to evolve personally & professionally.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratapsinghr2016&label=Profile%20views&color=0e75b6&style=flat" alt="pratapsinghr2016" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratapsinghr2016" alt="pratapsinghr2016" /></a> </p>
 
