@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pratapsinghr2016@gmail.com**
 
-- 📄 Know about my experiences [https://pdfhost.io/v/Rt6HoBTJ2_Rajat_Pratap_Singh_Resume](on my Resume)
+- 📄 Know about my experiences [on my Resume](https://drive.google.com/file/d/13jejDoaR5cV6TAmFVjKgxJyAWEXDbDUN/view?usp=sharing)
 
 - ⚡ Fun fact **I try to relate technical stuffs with philosophical and real life scenarios.**
 
