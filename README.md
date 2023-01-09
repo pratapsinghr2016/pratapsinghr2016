@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Marketplace application for DaMENSCH](https://www.damensch.com/)
 
-- 🌱 I’m currently learning **Problem solving using JavaScript & advance concepts of JS.**
+- 🌱 I’m currently learning **everything in & around JS**
 
 - 💬 Ask me about **Web-dev & software engineering**
 
