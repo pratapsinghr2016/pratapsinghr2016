@@ -3,7 +3,7 @@
 <h3 align="center">If API or girlfriend don't respond, trust me it's your fault</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I’m currently working on [Marketplace application for DaMENSCH](https://www.damensch.com/)
+- 🔭 I’m currently working as MERN stack developer
 
 - 🌱 I’m currently learning **everything in & around JS**
 
