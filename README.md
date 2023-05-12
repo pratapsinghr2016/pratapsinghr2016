@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--ohpJlve1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/drquzbncy/image/upload/v1586605549/javascript_banner_sxve2l.jpg)](https://www.linkedin.com/in/rajat-pratap-singh-sse/)
 <h1 align="center">Hey there 👋, I'm Rajat</h1>
-<h3 align="center">If API or girlfriend don't respond, trust me it's your fault</h3>
+<h3 align="center">Trying to learn art of building scalable and cost effective systems</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🔭 I’m currently working as MERN stack developer
