@@ -1,28 +1,78 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--ohpJlve1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/drquzbncy/image/upload/v1586605549/javascript_banner_sxve2l.jpg)](https://www.linkedin.com/in/rajat-pratap-singh-sse/)
-<h1 align="center">Hey there 👋, I'm Rajat</h1>
-<h3 align="center">Trying to learn art of building scalable and cost effective systems</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+### Hi It's Rajat here 👋
 
-- 🔭 I’m currently working as MERN stack developer
+<!--
+**pavan2108/pavan2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🌱 I’m currently learning **everything in & around JS**
+Here are some ideas to get you started:
+-->
+- 🔭 I’m currently working as Team Lead at DashClicks
+- 🌱 I'm currently learning nestjs stack
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about mern, django, flask, nestjs, galaxies
+- 📫 How to reach me: Email Me at: pratapsinghr2016@gmail.com
+- 😄 I love: Frontend and trying to be strong at Full-stack
+- ⚡ Fun fact: My first line of code is "hello world"
 
-- 💬 Ask me about **Web-dev & software engineering**
+### Badges
+[![An image of @pratapsinghr2016's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavan2108)](https://holopin.io/@pavan2108)
 
-- 📫 How to reach me **pratapsinghr2016@gmail.com**
+### 🛠 Languages and Tools
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=yellow)&nbsp;
+![DJANGO](https://img.shields.io/badge/Django-05122A?style=flat&logo=django&logoColor=white)&nbsp;
+![FLASK](https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask&logoColor=white)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react&logoColor=42A5F5)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs&logoColor=42A5F5)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=42A5F5)&nbsp;
+![SQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=42A5F5)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sublime Text](https://img.shields.io/badge/-Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
+![Atom](https://img.shields.io/badge/Atom-05122A?style=flat&logo=Atom&logoColor=white)&nbsp;
+![Clion](https://img.shields.io/badge/CLion-05122A?style=flat&logo=clion&logoColor=skyblue)&nbsp;
+![Pycharm](https://img.shields.io/badge/PyCharm-05122A.svg?&style=flat&logo=PyCharm&logoColor=palegreen)&nbsp;
+![Colab](https://img.shields.io/badge/Colab-05122A?style=flat&logo=googlecolab&color=525252)&nbsp;
+![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![Material Ui](https://img.shields.io/badge/Material--UI-05122A?style=flat&logo=material-ui&logoColor=white)&nbsp;
+![Jquery](https://img.shields.io/badge/jQuery-05122A?style=flat&logo=jquery&logoColor=white)&nbsp;
+![mysql](https://img.shields.io/badge/MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![mongodb](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=green)&nbsp;
+![heroku](https://img.shields.io/badge/Heroku-05122A?style=flat&logo=heroku&logoColor=white)&nbsp;
+![vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=vercel&logoColor=white)&nbsp;
 
-- 📄 Know about my experiences [on my Resume](https://drive.google.com/file/d/13jejDoaR5cV6TAmFVjKgxJyAWEXDbDUN/view?usp=sharing)
 
-- ⚡ I think **Engineering can  be philosiphical**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rajat.p.singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajat.p.singh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rajat-pratap-singh-sse/" target="blank"><img align="center" src="https://img.icons8.com/color/1x/linkedin-2.png" alt="rajat.p.singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/i_just_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_just_wanna_code" height="30" width="40" /></a>
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratapsinghr2016&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+</table>
+
+![Today's Routine](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pavan2108&theme=monokai&utcOffset=5)
+
+![Few Stats](https://github-profile-trophy.vercel.app/?username=pavan2108&theme=onedark)
+
+<p>
+<a href="https://github.com/pavan2108">
+  <img height="180em" align=top src="https://github-readme-stats-eight-theta.vercel.app/api?username=pavan2108&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> &nbsp
+  <img height="180em" align=top src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pavan2108&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratapsinghr2016&show_icons=true&locale=en&layout=compact" alt="pratapsinghr2016" /></p>
+![GitHub Streak](https://streak-stats.demolab.com?user=pratapsinghr2016&theme=algolia)
+
+
+
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=pavan2108&style=plastic&label=PROFILE+VIEWS)
