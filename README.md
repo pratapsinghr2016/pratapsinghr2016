@@ -1,7 +1,7 @@
 ### Hi It's Rajat here 👋
 
 <!--
-**pavan2108/pavan2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pratapsinghr2016/pratapsinghr2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
@@ -58,14 +58,14 @@ Here are some ideas to get you started:
    </tr> 
 </table>
 
-![Today's Routine](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pavan2108&theme=monokai&utcOffset=5)
+![Today's Routine](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratapsinghr2016&theme=monokai&utcOffset=5)
 
-![Few Stats](https://github-profile-trophy.vercel.app/?username=pavan2108&theme=onedark)
+![Few Stats](https://github-profile-trophy.vercel.app/?username=pratapsinghr2016&theme=onedark)
 
 <p>
-<a href="https://github.com/pavan2108">
-  <img height="180em" align=top src="https://github-readme-stats-eight-theta.vercel.app/api?username=pavan2108&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> &nbsp
-  <img height="180em" align=top src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pavan2108&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/pratapsinghr2016">
+  <img height="180em" align=top src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratapsinghr2016&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> &nbsp
+  <img height="180em" align=top src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratapsinghr2016&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -75,4 +75,4 @@ Here are some ideas to get you started:
 
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=pavan2108&style=plastic&label=PROFILE+VIEWS)
+![Profile View Counter](https://komarev.com/ghpvc/?username=pratapsinghr2016&style=plastic&label=PROFILE+VIEWS)
