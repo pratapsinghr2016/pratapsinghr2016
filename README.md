@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: My first line of code is "hello world"
 
 ### Badges
-[![An image of @pratapsinghr2016's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavan2108)](https://holopin.io/@pavan2108)
+[![An image of @pratapsinghr2016's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavan2108)](https://holopin.io/@pratapsinghr2016)
 
 ### 🛠 Languages and Tools
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
